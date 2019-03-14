@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 716c2a9897f85c64a847db6d5f01fc60, type: 3}
+  m_Name: 2. 1
+  m_EditorClassIdentifier: 
+  storyText: "The living room has a small, old television positioned against one wall,
+    with a moth-eaten couch facing towards it.  Old family photos hang on the wall
+    alongside graffiti left by previous vandals.  You spy a closed door across the
+    room.  You...\r\n\r\n1) Briskly walk across the room and push open the closed
+    door.\r\n\r\n2) Decide to explore the living room more.  Perhaps there is something
+    here that confirms the strange practices of the former owners."
+  nextStates: []

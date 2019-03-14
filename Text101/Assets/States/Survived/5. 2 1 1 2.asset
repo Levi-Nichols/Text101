@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 716c2a9897f85c64a847db6d5f01fc60, type: 3}
+  m_Name: 5. 2 1 1 2
+  m_EditorClassIdentifier: 
+  storyText: 'Searching the night stand, you find what seems to be a diary.  It''s
+    bound in some strange leather that is tattered, and feeling this is a perfect
+    thing to bring as proof you leave the house and return to your friends.  Later,
+    while alone in your room, you start to read the diary.  The words inside talk
+    of horrible acts and beings, but you can''t stop reading.  Page after page you,
+    you are drawn into the thoughts, feelings, and life of the writer.  After you
+    read the last page, you close the diary, setting it to the side, and stand up
+    with a determined look on your face.  You now know what you must do.
+
+
+    You Survived... But at what cost?
+
+
+    Search for a different outcome?
+
+
+    1) Yes, I can do better.
+
+
+    2) No, I''ll quit while I''m ahead.'
+  nextStates: []

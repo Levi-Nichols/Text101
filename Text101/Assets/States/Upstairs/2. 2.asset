@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 716c2a9897f85c64a847db6d5f01fc60, type: 3}
+  m_Name: 2. 2
+  m_EditorClassIdentifier: 
+  storyText: "It's almost pitch black at the top of the stairs, the outside street
+    lights unable to reach this part of the house.  You turn the flashlight from your
+    phone on, and look around.  Down the hallway you see two doorways, and a trapdoor
+    partially hanging open from the ceiling. You decide to...\r\n\r\n1) Explore the
+    rooms off the hall.\r\n\r\n2) Go to the end of the hall and pull the attic trapdoor
+    down the rest of the way."
+  nextStates: []

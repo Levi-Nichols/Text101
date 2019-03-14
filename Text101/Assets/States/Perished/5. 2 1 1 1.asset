@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 716c2a9897f85c64a847db6d5f01fc60, type: 3}
+  m_Name: 5. 2 1 1 1
+  m_EditorClassIdentifier: 
+  storyText: "Opening the wardrobe you see some \ntattered coats hanging.  Just beyond
+    them, you see a sliver of light showing through, and moving the coats aside you
+    can hardly believe your eyes.  Inside is an alien landscape of large dunes of
+    red sand, the sky is a deep purple, in which a dark red sun hangs.  You turn to
+    leave but find that behind you now is group of hooded figures, no door, wardrobe
+    or house in sight.  The hooded figures approach you with hands outstretched toward
+    you and you scream before it is muffled below numerous searching hands...\n\nYou've
+    Perished\n\nTry again for a better outcome?\n\n1) Yes, I can overcome this!\n2)
+    No, I resign to my fate"
+  nextStates: []

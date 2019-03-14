@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 716c2a9897f85c64a847db6d5f01fc60, type: 3}
+  m_Name: 4. 2 1 2
+  m_EditorClassIdentifier: 
+  storyText: 'The room has two small beds, destroyed by time, and a chest open to
+    the left of them.  Inside the chest you see toys, and a particularly creepy doll
+    catches your eye. Thinking this would would be the perfect, creepy proof to show
+    to your friends.  You reach for it when suddenly the dolls head swivels and locks
+    eyes with you, it''s mouth opening to reveal razor sharp teeth.  It lunges straight
+    at your neck, and your vision goes black.
+
+
+    You''ve Perished
+
+
+    Try again for a better outcome?
+
+
+    1) Yes, I can overcome this!
+
+    2) No, I resign to my fate.'
+  nextStates: []

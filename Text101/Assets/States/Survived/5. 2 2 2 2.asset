@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 716c2a9897f85c64a847db6d5f01fc60, type: 3}
+  m_Name: 5. 2 2 2 2
+  m_EditorClassIdentifier: 
+  storyText: 'You reach down picking up the pocket watch, staying as far away from
+    the pile of bones as possible.  The watch is unnaturally cold to the touch, and
+    has strange hieroglyphic like symbols engraved on it.  Opening it you see a cracked
+    watch face, with the time stopped at three o''clock.  There is a picture as well
+    of a family of four, the parents and two children, but there faces have been scratched
+    out of the photo.  You leave, and drive home, but your dreams are haunted by faceless
+    people, and you always feel like someone is watching you.
+
+
+    You Survived... But at what cost?
+
+
+    Search for a different outcome?
+
+
+    1) Yes, I can do better.
+
+
+    2) No, I''ll quit while I''m ahead.'
+  nextStates: []
