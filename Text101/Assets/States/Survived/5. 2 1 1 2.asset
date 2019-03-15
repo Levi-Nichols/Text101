@@ -13,13 +13,14 @@ MonoBehaviour:
   m_Name: 5. 2 1 1 2
   m_EditorClassIdentifier: 
   storyText: 'Searching the night stand, you find what seems to be a diary.  It''s
-    bound in some strange leather that is tattered, and feeling this is a perfect
-    thing to bring as proof you leave the house and return to your friends.  Later,
-    while alone in your room, you start to read the diary.  The words inside talk
-    of horrible acts and beings, but you can''t stop reading.  Page after page you,
-    you are drawn into the thoughts, feelings, and life of the writer.  After you
-    read the last page, you close the diary, setting it to the side, and stand up
-    with a determined look on your face.  You now know what you must do.
+    bound in some strange leather that is tattered and falling apart. You feel this
+    is a perfect item to bring as proof, and you leave the house, returning to your
+    friends.  Later, while alone in your room, you start to read the diary.  The words
+    inside talk of horrible acts and strange entities, but you feel compelled to keep
+    reading.  Page after page, your are drawn into the thoughts, feelings, and life
+    of the previous owner.  After you read the last page, you close the diary, setting
+    it to the side.  You stand up with a determined look on your face.  You understand
+    now what must be done.
 
 
     You Survived... But at what cost?
@@ -32,4 +33,6 @@ MonoBehaviour:
 
 
     2) No, I''ll quit while I''m ahead.'
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 4833c329c9c3c8240a4e3b79a4d041c9, type: 2}
+  - {fileID: 11400000, guid: 63f9b8504a3ec0949b2d0f8f95aefc8b, type: 2}

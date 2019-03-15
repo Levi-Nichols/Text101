@@ -13,10 +13,12 @@ MonoBehaviour:
   m_Name: 4. 2 2 2
   m_EditorClassIdentifier: 
   storyText: "Looking again, you don't see the body anymore, instead you see a pile
-    of bones and old clothes on the floor beneath a tattered rope hanging from the
-    rafters.  A golden glint draws your eye to a pocket watch a short distance from
+    of bones and tattered clothes on the floor beneath a fraying rope hanging from
+    a rafter.  A golden glint draws your eye to a pocket watch a short distance from
     the skeletal remains.  Perhaps you could bring...\r\n\r\n1) The skull of the deceased
-    back.  How much more metal can you get.  Your friends would never question how
-    bad ass you are.\r\n\r\n2) The pocket watch back.  It could be valuable, and would
-    get your friends off your back."
-  nextStates: []
+    back.  Can't get much more metal than that!  Your friends would never question
+    how bad ass you are again.\r\n\r\n2) The pocket watch back.  It could be valuable,
+    and would get your friends off your back."
+  nextStates:
+  - {fileID: 11400000, guid: 767585c3db53795498fd12ffac99aaae, type: 2}
+  - {fileID: 11400000, guid: 2e527ebf249e2d844a94f9dfea4823e0, type: 2}

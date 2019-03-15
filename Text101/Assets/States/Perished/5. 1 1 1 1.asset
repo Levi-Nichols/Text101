@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 716c2a9897f85c64a847db6d5f01fc60, type: 3}
   m_Name: 5. 1 1 1 1
   m_EditorClassIdentifier: 
-  storyText: 'You reach down fumbling for your phone, finding it and picking it up.  As
-    you do the camera light you were using as a flashlight hits your eyes and your
-    blinded for a second.  You turn around as your eyes readjust to the darkness just
+  storyText: 'You reach down fumbling for your phone, finding and picking it up.  As
+    you do the camera light you were using as a flashlight hits your eyes and blinds
+    you for a second.  You turn around as your eyes readjust to the darkness just
     in time to see some shadow figure swinging a large blade at your neck.  Then you
     see no more.
 
@@ -27,5 +27,8 @@ MonoBehaviour:
 
     1) Yes, I can overcome this!
 
+
     2) No, I resign to my fate'
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 4833c329c9c3c8240a4e3b79a4d041c9, type: 2}
+  - {fileID: 11400000, guid: 63f9b8504a3ec0949b2d0f8f95aefc8b, type: 2}

@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "You've arrived on a dare at the front door of the abandoned, dilapidated
     mansion.  The autumn breeze blows softly, rustling leaves, and making the old
-    mansion creak and groan, sending a chill down your spine. Do you...\"\r\n\r\nA)
+    mansion creak and groan, sending a chill down your spine. Do you...\"\r\n\r\n1)
     Grasp the doorknob, heart pounding in your ears, and bravely open the door, stepping
-    across the threshold.  No way you'll flake out on a dare.\r\n\nB) Turn away and
+    across the threshold.  No way you'll flake out on a dare.\r\n\n2) Turn away and
     start to head back to your friends waiting in the car parked on the street.  This
     was just a stupid dare anyway."
   nextStates:
-  - {fileID: 0}
-  - {fileID: 11400000, guid: 2b7f229532d1f3c46a262ce68fba0b3b, type: 2}
+  - {fileID: 11400000, guid: 69a8012725544c04ab1bd2bdb06b7d28, type: 2}
+  - {fileID: 11400000, guid: 3332551ba8062bb428dd1f95e0c2ceb2, type: 2}

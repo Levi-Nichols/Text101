@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: 3. 1 2
   m_EditorClassIdentifier: 
   storyText: "You peruse the living room, looking at the family pictures on the wall.
-    \ They give you a chill, though you can't put a finger on why.  You try the television,
-    which doesn't work as expected.  You decide to continue on through the door on
-    the far wall.\r\n\r\n1) Push the door open."
-  nextStates: []
+    \ They give you an uneasy feeling, though you can't put a finger on why.  You
+    try the television, but it doesnt work, as expected.  You decide to continue on
+    through the door on the far wall.\r\n\r\n1) Push the door open."
+  nextStates:
+  - {fileID: 11400000, guid: e73cb606ee9faa1409532af09b3a3c7c, type: 2}

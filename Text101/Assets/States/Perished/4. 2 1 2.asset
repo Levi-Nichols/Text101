@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 4. 2 1 2
   m_EditorClassIdentifier: 
   storyText: 'The room has two small beds, destroyed by time, and a chest open to
-    the left of them.  Inside the chest you see toys, and a particularly creepy doll
-    catches your eye. Thinking this would would be the perfect, creepy proof to show
-    to your friends.  You reach for it when suddenly the dolls head swivels and locks
-    eyes with you, it''s mouth opening to reveal razor sharp teeth.  It lunges straight
-    at your neck, and your vision goes black.
+    the left of them.  Inside the chest you see some old toys, and a particularly
+    creepy doll catches your eye. Thinking this would would be the perfect, creepy
+    proof to show to your friends.  You reach for it, when its head suddenly swivels
+    and locks eyes with you, it''s mouth opening to reveal razor sharp teeth.  It
+    lunges straight at your neck, and your vision goes black.
 
 
     You''ve Perished
@@ -28,5 +28,8 @@ MonoBehaviour:
 
     1) Yes, I can overcome this!
 
+
     2) No, I resign to my fate.'
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 4833c329c9c3c8240a4e3b79a4d041c9, type: 2}
+  - {fileID: 11400000, guid: 63f9b8504a3ec0949b2d0f8f95aefc8b, type: 2}

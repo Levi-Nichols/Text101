@@ -18,4 +18,6 @@ MonoBehaviour:
     heading down toward the back of the room.  You..\r\n\r\n1) Walk to the fridge
     and open the door.\r\n\r\n2) Walk across the room, being careful not to knock
     over any of the rubbish littering the counters, and head down the stairs."
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: a03a9038901b8db4d8fd88b5d46667a3, type: 2}
+  - {fileID: 11400000, guid: b67a41fa78143b3469c90926fb14783a, type: 2}

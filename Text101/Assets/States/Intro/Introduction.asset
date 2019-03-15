@@ -15,7 +15,7 @@ MonoBehaviour:
   storyText: 'OCCULT MANSION
 
 
-    This is a choose your own text adventure.  You''ll have to weight your choices
+    This is a choose your own text adventure.  You''ll have to weigh your choices
     carefully to survive your encounter with the supernatural.
 
 
@@ -23,6 +23,6 @@ MonoBehaviour:
     example 1, 2, or 3.
 
 
-    At any point in time, push "q" to quit.'
+    Press 1 to Continue'
   nextStates:
   - {fileID: 11400000, guid: 4833c329c9c3c8240a4e3b79a4d041c9, type: 2}

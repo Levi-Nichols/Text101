@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 716c2a9897f85c64a847db6d5f01fc60, type: 3}
   m_Name: 6. 1 1 2 1 2
   m_EditorClassIdentifier: 
-  storyText: 'You take the knife and sliding it in your belt, run back up the stairs.  You
-    head out of the house but stop suddenly.  You don''t see your friends, the car,
-    or even the street.  You only see a vast swampy landscape stretching in all directions.  In
-    the distance, miles away, you see a dark, massive pyramid like structure.  Completely
-    calm, and for some reason feeling a strong pull toward the monolith, you step
-    off the porch onto the soft, wet ground and start to walk toward the structure...
+  storyText: 'You take the knife, and sliding it into your belt, run back up the stairs.  You
+    head out of the house, but stop suddenly.  You don''t see your friends, the car,
+    or even the street.  You only see a vast, swampy landscape stretching in all directions.  In
+    the distance, miles away, you see a dark, massive pyramid like structure.  Unnaturally
+    calm, you feel a strong pull toward the monolith.  You step off the porch onto
+    the soft, wet ground and start to walk towards the structure...
 
 
     You Survived... But at what cost?
@@ -30,4 +30,6 @@ MonoBehaviour:
 
 
     2) No, I''ll quit while I''m ahead.'
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 4833c329c9c3c8240a4e3b79a4d041c9, type: 2}
+  - {fileID: 11400000, guid: 63f9b8504a3ec0949b2d0f8f95aefc8b, type: 2}

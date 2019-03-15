@@ -16,4 +16,6 @@ MonoBehaviour:
     see an old four-post bed against one wall with a night stand beside it, and a
     wardrobe next to the window.  You...\r\n\r\n1) Open the wardrobe up and look inside.\r\n\r\n2)
     Walk to the bed and examine the night stand."
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 8ad5a52cfa11e9945b8e2237887cd551, type: 2}
+  - {fileID: 11400000, guid: 50f3f68c93d969a4694fcdff9bfdf92b, type: 2}

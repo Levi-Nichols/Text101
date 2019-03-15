@@ -13,8 +13,11 @@ MonoBehaviour:
   m_Name: 3. 2 2
   m_EditorClassIdentifier: 
   storyText: "As the trapdoor descends, a ladder unfolds leading up to the attic.
-    \ You ascend the ladder and pan your flashlight around the attic, seeing dusty
-    furniture covered in moth eaten cloth.  Suddenly you pan over a dead body swinging
-    from a noose, and you let out a scream.  You...\r\n\r\n1) Turn to head back down
-    the ladder.\r\n\r\n2) Take some deep breaths and examine the body."
-  nextStates: []
+    \ You ascend the ladder and pan your flashlight around the room, seeing dusty
+    furniture covered in moth-eaten cloth.  Suddenly, your flashlight pans over a
+    dead body swinging from a noose, and your breath catches in your throat.  You...\r\n\r\n1)
+    Turn to head back down the ladder.\r\n\r\n2) Take some deep breaths and examine
+    the body."
+  nextStates:
+  - {fileID: 11400000, guid: 08b86db8778309743ab546cc07ddb6db, type: 2}
+  - {fileID: 11400000, guid: 7636a739f7174c942b6e8fe0512a510b, type: 2}

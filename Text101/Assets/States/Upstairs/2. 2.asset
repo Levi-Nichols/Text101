@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: 2. 2
   m_EditorClassIdentifier: 
   storyText: "It's almost pitch black at the top of the stairs, the outside street
-    lights unable to reach this part of the house.  You turn the flashlight from your
-    phone on, and look around.  Down the hallway you see two doorways, and a trapdoor
-    partially hanging open from the ceiling. You decide to...\r\n\r\n1) Explore the
-    rooms off the hall.\r\n\r\n2) Go to the end of the hall and pull the attic trapdoor
-    down the rest of the way."
-  nextStates: []
+    lights unable to reach this part of the house.  You turn your phone's flashlight
+    on, and look around.  Down the hallway you see two doorways, and a trapdoor partially
+    hanging open from the ceiling. You decide to...\r\n\r\n1) Explore the rooms off
+    the hall.\r\n\r\n2) Go to the end of the hall and pull the attic trapdoor down
+    the rest of the way."
+  nextStates:
+  - {fileID: 11400000, guid: a9c0ab065eff4924486dfb496c79beb6, type: 2}
+  - {fileID: 11400000, guid: 2b4902dbb1f7b5442b158fba62f2657e, type: 2}

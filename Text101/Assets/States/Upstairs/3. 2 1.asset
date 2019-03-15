@@ -16,5 +16,7 @@ MonoBehaviour:
     \ Looking into the second bedroom you see what looks to be the master bedroom.
     \ You decide to go in...\r\n\r\n1) The master bedroom.  The old toys in the child's
     room gives you the creeps.\r\n\r\n2) The child's bedroom.  Maybe you could find
-    a creepy doll to freak your friends out."
-  nextStates: []
+    a creepy, old doll to freak your friends out."
+  nextStates:
+  - {fileID: 11400000, guid: 20140d18ee7f8db41b304f1a4a0e2a24, type: 2}
+  - {fileID: 11400000, guid: 37d06cc6ab94f344e9d607f977ca4b41, type: 2}

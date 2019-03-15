@@ -12,10 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 716c2a9897f85c64a847db6d5f01fc60, type: 3}
   m_Name: 4. 1 1 2
   m_EditorClassIdentifier: 
-  storyText: "The stairs creak as you walk down into blackness.  You turn on the flashlight
-    on your phone and reach the bottom of the stairs.  Panning your flashlight around
-    the room you start to feel dread well up in the pit of your stomach.  You see
+  storyText: "The stairs creak as you walk down into blackness.  You turn your phone's
+    flashlight on and reach the bottom of the stairs.  Panning your flashlight around
+    the room, you start to feel dread well up in the pit of your stomach.  You see
     an old stone altar with a bowl and dagger resting upon it.  The walls are covered
     in strange engraved symbols.  You...\r\n\r\n1) Go examine the altar.\r\n\r\n2)
     Go examine the engravings on the wall."
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: a589f224aca0a854c8db3d17fda69108, type: 2}
+  - {fileID: 11400000, guid: d4133433cd0dab34c94fae9fc1f9486a, type: 2}

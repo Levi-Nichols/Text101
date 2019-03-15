@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "The altar is made of concrete seemingly poured into the foundation,
     and has a ragged black velvet cloth draped over it.  Looking at the bowl it seems
-    to be of copper, with etchings of a multitude of tentacles all around it.  The
-    knife has a bone handle, and a long, rusted blade.  You decide that...\r\n\r\n1)
+    to be made of copper, with etchings of a tangled mass of tentacles all around
+    it.  The knife has a bone handle, and a long, rusted blade.  You decide that...\r\n\r\n1)
     You'll take the bowl back as proof.\r\n\r\n2) The knife will be a prefect prize
     to prove you explored the house."
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: a5483800fae983241b5c4afadd6b650a, type: 2}
+  - {fileID: 11400000, guid: b7068b7a23bf5aa4684adc37b92aed71, type: 2}

@@ -18,4 +18,6 @@ MonoBehaviour:
     Go into the living room, batting the cobwebs away as you go under the arch.\r\n\r\n2)
     Walk up the flight of stairs to the second floor, the staircase ominously creaking
     as you ascend."
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: de0bca4bbb0f9a3439575473f005d00e, type: 2}
+  - {fileID: 11400000, guid: 888cb7535a8da3f45a8d20036c09c94c, type: 2}

@@ -13,8 +13,10 @@ MonoBehaviour:
   m_Name: 4. 1 1 1
   m_EditorClassIdentifier: 
   storyText: "There's something in the fridge but it's too dark to tell.  You turn
-    on the flashlight on your phone and your mind takes a minute to process what you
+    the flashlight on your phone on and your mind takes a minute to process what you
     see.  You scream, dropping your cell phone as you realize the fridge is full of
     old bones and decaying human body parts.  You...\r\n\r\n1) Reach down to pick
     up your phone.\r\n\r\n2) Run towards the exit."
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: b96c59826b849834fb48812b6c81d13a, type: 2}
+  - {fileID: 11400000, guid: 5dbadbf57d7f4a1458f6376186ae422a, type: 2}

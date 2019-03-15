@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 716c2a9897f85c64a847db6d5f01fc60, type: 3}
   m_Name: 6. 1 1 2 1 1
   m_EditorClassIdentifier: 
-  storyText: 'The bowl is cool in your hand.  You quickly head back up the stairs
-    and to your car where you friends wait.  Climbing into the care you show them
-    the bowl and tell them what you saw in the house.  As your showing the bowl to
-    them, one of your friends exclaims, "Woah, there''s some liquid in there!"  Looking
-    down you see the bowl has begun to rapidly fill with black liquid.  You try to
-    open the car door to throw the bowl out, but neither you nor your friends can.  The
+  storyText: 'The bowl is ice cold in your hands.  You quickly head back up the stairs
+    and to the car where you friends are waiting.  Climbing into the car, you show
+    them the bowl and tell them what you encountered in the mansion.  One of your
+    friends suddenly exclaims, "Woah! there''s something in the bowl!"  Looking down
+    you see the bowl has begun to rapidly fill with a black liquid.  You try to open
+    the car door to throw the bowl out, but neither you nor your friends can get out.  The
     bowl is overflowing and starting to fill the car.  In moments the black liquid
-    has filled the car and you can''t breath.  Your vision goes black...
+    has filled the car, drowning you.  Your vision goes black...
 
 
     You''ve Perished
@@ -30,5 +30,8 @@ MonoBehaviour:
 
     1) Yes, I can overcome this!
 
+
     2) No, I resign to my fate'
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 4833c329c9c3c8240a4e3b79a4d041c9, type: 2}
+  - {fileID: 11400000, guid: 63f9b8504a3ec0949b2d0f8f95aefc8b, type: 2}

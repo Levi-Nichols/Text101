@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: 'You reach down picking up the pocket watch, staying as far away from
     the pile of bones as possible.  The watch is unnaturally cold to the touch, and
-    has strange hieroglyphic like symbols engraved on it.  Opening it you see a cracked
-    watch face, with the time stopped at three o''clock.  There is a picture as well
-    of a family of four, the parents and two children, but there faces have been scratched
-    out of the photo.  You leave, and drive home, but your dreams are haunted by faceless
-    people, and you always feel like someone is watching you.
+    has strange hieroglyphic-like symbols engraved on it.  Opening it you see a cracked
+    watch face, with the hands stopped on three o''clock.  There is a picture inside
+    of a family of four of a husband and wife and two children, but there faces have
+    been scratched out.  You return to your friends, and drive home, but your dreams
+    start to become haunted by faceless beings...
 
 
     You Survived... But at what cost?
@@ -31,4 +31,6 @@ MonoBehaviour:
 
 
     2) No, I''ll quit while I''m ahead.'
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 4833c329c9c3c8240a4e3b79a4d041c9, type: 2}
+  - {fileID: 11400000, guid: 63f9b8504a3ec0949b2d0f8f95aefc8b, type: 2}
