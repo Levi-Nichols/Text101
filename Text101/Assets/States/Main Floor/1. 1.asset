@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "The door slowly creaks closed behind you. Inside you see a dusty, cobwebbed
     foyer, styled in mid-century decor.  There is a stair case leading to the second
-    floor along one wall, and an opening to the living room.  You decide to..\r\n\r\n1)
-    Go into the living room, batting the cobwebs away as you go under the arch.\r\n\r\n2)
-    Walk up the flight of stairs to the second floor, the staircase ominously creaking
-    as you ascend."
+    floor along one wall, and an opening to the living room directly to your left.
+    \ You decide to..\r\n\r\n1) Go into the living room, batting the cobwebs away
+    as you go under the arch.\r\n\r\n2) Walk up the flight of stairs to the second
+    floor, the staircase ominously creaking as you ascend."
   nextStates:
   - {fileID: 11400000, guid: de0bca4bbb0f9a3439575473f005d00e, type: 2}
   - {fileID: 11400000, guid: 888cb7535a8da3f45a8d20036c09c94c, type: 2}

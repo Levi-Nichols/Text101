@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: 4. 2 2 1
   m_EditorClassIdentifier: 
   storyText: "In your hurry to run away, something catches your foot, and you fall
-    head first down ladder, landing hard on the floor with a crunch.  Your world goes
-    black.\r\n\r\nYou've Perished\n\nTry again for a better outcome?\n\n1) Yes, I
-    can overcome this!\n\n2) No, I resign to my fate."
+    head first down the ladder, landing hard on the floor with a crunch.  Your world
+    goes black.\r\n\r\nYou've Perished\n\nTry again for a better outcome?\n\n1) Yes,
+    I can overcome this!\n\n2) No, I resign to my fate."
   nextStates:
   - {fileID: 11400000, guid: 4833c329c9c3c8240a4e3b79a4d041c9, type: 2}
   - {fileID: 11400000, guid: 63f9b8504a3ec0949b2d0f8f95aefc8b, type: 2}
